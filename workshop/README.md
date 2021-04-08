@@ -1,5 +1,5 @@
 
-# Analyzing Credit Risk with Cloud Pak for Data on OpenShift
+## Analyzing Credit Risk data with Cloud Pak for Data on OpenShift
 
 Welcome to our workshop! In this workshop we'll be using the Cloud Pak for Data platform to Collect Data, Organize Data, Analyze Data, and Infuse AI into our applications. The goals of this workshop are:
 
@@ -9,11 +9,12 @@ Welcome to our workshop! In this workshop we'll be using the Cloud Pak for Data 
 * Monitor the model
 * Create a Python app to use the model
 
-## About this workshop
+### About this workshop
+
+The introductory page of the workshop is broken down into the following sections:
 
 * [Agenda](#agenda)
 * [Compatability](#compatability)
-* [About Cloud Pak for Data](#about-cloud-pak-for-data)
 * [Credits](#credits)
 
 ### About the data set
@@ -72,27 +73,33 @@ This file has the following attributes:
 
 ## Agenda
 
-|   |   |
-| - | - |
-| [Pre-work](pre-work/README.md) | Creating a project, downloading the data set, seeding a database |
-| [Data Connection and Virtualization](data-connection-and-virtualization/README.md) | Creating a new connection, virtualizing the data, importing the data into the project |
-| [Import Data to Project](addData/README.md) | Import the data into your project |
-| [Data Visualization with Data Refinery](data-visualization-and-refinery/README.md) | Refining the data, vizualizing and profiling the data |
-| [Enterprise data governance for Viewers using Watson Knowledge Catalog](watson-knowledge-catalog-user/README.md) | Use and Enterprise data catalog to search, manage, and protect data |
-| [Enterprise data governance for Admins using Watson Knowledge Catalog](watson-knowledge-catalog-admin/README.md) | Create new Categories, Business terms, Policies and Rules in Watson Knowledge Catalog |
-| [Machine Learning with Jupyter](machine-learning-in-Jupyter-notebook/README.md) | Building a model with Spark, deploying the model with Watson Maching Learning, testing the model with a Python Flask app |
-| [Machine Learning with AutoAI](machine-learning-autoai/README.md) | Use AutoAi to quickly generate a Machine Learning pipeline and model |
-| [Deploy and Test Machine Learning Models](machine-learning-deployment-scoring/README.md) | Deploy and machine learning models using several approaches |
-| [Monitoring models with OpenScale GUI (Auto setup Monitoring)](openscale-fastpath/README.md) | Quickly deploy an OpenScale demo with Auto setup|
-| [Monitoring models with OpenScale GUI (Manual Config)](openscale-gui-manual-config/README.md) | Use the OpenScale tool to monitor deployed machine learning models |
-| [Monitoring models with OpenScale (Notebook)](openscale-notebook/README.md) | See the OpenScale APIs in a Jupyter notebook and manually configure the monitors |
+|  |   |   |
+| -  | - | - |
+| 00:05 | Welcome | Welcome to the Cloud Pak for Data workshop |
+| 00:20 | Lecture - Intro and Overview | Introduction to Cloud Pak for Data and an Overview of this workshop |
+| 00:20 | Lecture - Data Refinery and Data Virtualization  | Data Refinery and Data Virtualization |
+| 00:10 | Walkthrough - [Data Connection and Virtualization](db-connection-and-virtualization/README.md) | Creating a new connection, virtualizing the data, importing the data into the project |
+| 00:30 | Lab - [Data Connection and Virtualization](db-connection-and-virtualization/README.md) | Creating a new connection, virtualizing the data, importing the data into the project |
+| 00:10 | Walkthrough - [Data Visualization with Data Refinery](data-visualization-and-refinery/README.md) | Refining the data, vizualizing and profiling the data |
+| 00:15 | Lab - [Data Visualization with Data Refinery](data-visualization-and-refinery/README.md) | Refining the data, vizualizing and profiling the data |
+| 00:15 | Lecture - Watson Knowledge Catalog | Enterprise governance with Watson Knowledge Catalog | 
+| 00:05 | Walkthrough - [Enterprise data governance for Viewers using Watson Knowledge Catalog](watson-knowledge-catalog-user/README.md) | Use and Enterprise data catalog to search, manage, and protect data |
+| 00:20 | Lab - [Enterprise data governance for Viewers using Watson Knowledge Catalog](watson-knowledge-catalog-user/README.md) | Use and Enterprise data catalog to search, manage, and protect data |
+| 00:05 | Walkthrough - [Enterprise data governance for Admins using Watson Knowledge Catalog](watson-knowledge-catalog-admin/README.md) | Create new Categories, Business terms, Policies and Rules in Watson Knowledge Catalog |
+| 00:20 | Lab - [Enterprise data governance for Admins using Watson Knowledge Catalog](watson-knowledge-catalog-admin/README.md) | Create new Categories, Business terms, Policies and Rules in Watson Knowledge Catalog |
+| 00:15 | Lecture - Machine Learning | Machine Learning and Deep Learning concepts |
+| 00:10 | Walkthrough - [Machine Learning with AutoAI](machine-learning-autoai/README.md) | Use AutoAi to quickly generate a Machine Learning pipeline and model |
+| 00:20 | User Lab - AutoAI - [Machine Learning with AutoAI](machine-learning-autoai/README.md) | Use AutoAi to quickly generate a Machine Learning pipeline and model |
+| 00:10 | Closing | Other capabilities, review, and next steps |
 
 ## Compatability
 
 This workshop has been tested on the following platforms:
 
 * **macOS**: Mojave (10.14), Catalina (10.15)
-  * Google Chrome version 81
 
-* **Microsoft**: Windows 10
-  * Google Chrome, Microsoft Edge
+## Credits
+
+* [Scott D'Angelo](https://github.com/scottdangelo)
+* [Omid Meh](https://github.com/omidmeh)
+* [Javier Torres](https://github.com/jrtorres)
