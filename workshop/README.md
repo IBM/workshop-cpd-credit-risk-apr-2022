@@ -78,7 +78,7 @@ This file has the following attributes:
 | 00:05 | Welcome | Welcome to the Cloud Pak for Data workshop |
 | 00:20 | Lecture - Intro and Overview | Introduction to Cloud Pak for Data and an Overview of this workshop |
 | 00:20 | Lecture - Data Refinery and Data Virtualization  | Data Refinery and Data Virtualization |
-| 00:30 | Lab - [Data Connection and Virtualization](data-connection-and-virtualization/README.md) | Creating a new connection, virtualizing the data, importing the data into the project |
+| 00:30 | Lab - [Data Connection and Virtualization](data-connection-and-virtualization/README.md) and [importing the data into the project](addData/README.md) | Creating a new connection, virtualizing the data, importing the data into the project |
 | 00:10 | Walkthrough - [Data Connection and Virtualization](data-connection-and-virtualization/README.md) | Creating a new connection, virtualizing the data, importing the data into the project |
 | 00:15 | Lab - [Data Visualization with Data Refinery](data-visualization-and-refinery/README.md) | Refining the data, vizualizing and profiling the data |
 | 00:10 | Walkthrough - [Data Visualization with Data Refinery](data-visualization-and-refinery/README.md) | Refining the data, vizualizing and profiling the data |
