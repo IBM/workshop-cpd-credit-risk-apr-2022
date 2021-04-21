@@ -42,7 +42,7 @@ There are several ways to add assets to the catalog. We are going to add a local
 
 ### Download files 
 
-Download the following files from [ibm.biz/wkc-admin-files](ibm.biz/wkc-admin-files):
+Download the following files from [ibm.biz/wkc-admin-files](https://ibm.biz/wkc-admin-files):
 
 ```bash
 glossary-organize-categories.csv
