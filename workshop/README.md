@@ -78,11 +78,11 @@ This file has the following attributes:
 | 00:05 | Welcome | Welcome to the Cloud Pak for Data workshop |
 | 00:20 | Lecture - Intro and Overview | Introduction to Cloud Pak for Data and an Overview of this workshop |
 | 00:20 | Lecture - Data Refinery and Data Virtualization  | Data Refinery and Data Virtualization |
-| 00:30 | Lab - [Data Connection and Virtualization](db-connection-and-virtualization/README.md) | Creating a new connection, virtualizing the data, importing the data into the project |
-| 00:10 | Walkthrough - [Data Connection and Virtualization](db-connection-and-virtualization/README.md) | Creating a new connection, virtualizing the data, importing the data into the project |
+| 00:30 | Lab - [Data Connection and Virtualization](data-connection-and-virtualization/README.md) | Creating a new connection, virtualizing the data, importing the data into the project |
+| 00:10 | Walkthrough - [Data Connection and Virtualization](data-connection-and-virtualization/README.md) | Creating a new connection, virtualizing the data, importing the data into the project |
 | 00:15 | Lab - [Data Visualization with Data Refinery](data-visualization-and-refinery/README.md) | Refining the data, vizualizing and profiling the data |
 | 00:10 | Walkthrough - [Data Visualization with Data Refinery](data-visualization-and-refinery/README.md) | Refining the data, vizualizing and profiling the data |
-| 00:15 | Lecture - Watson Knowledge Catalog | Enterprise governance with Watson Knowledge Catalog | 
+| 00:15 | Lecture - Watson Knowledge Catalog | Enterprise governance with Watson Knowledge Catalog |
 | 00:20 | Lab - [Enterprise data governance for Viewers using Watson Knowledge Catalog](watson-knowledge-catalog-user/README.md) | Use and Enterprise data catalog to search, manage, and protect data |
 | 00:05 | Walkthrough - [Enterprise data governance for Viewers using Watson Knowledge Catalog](watson-knowledge-catalog-user/README.md) | Use and Enterprise data catalog to search, manage, and protect data |
 | 00:20 | Lab - [Enterprise data governance for Admins using Watson Knowledge Catalog](watson-knowledge-catalog-admin/README.md) | Create new Categories, Business terms, Policies and Rules in Watson Knowledge Catalog |
