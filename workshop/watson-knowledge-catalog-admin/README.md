@@ -40,13 +40,22 @@ First we'll create a catalog and load some data
 
 There are several ways to add assets to the catalog. We are going to add a local data asset. There are also optional sections to add connection assets below.
 
+### Download files 
+
+Download the following files from [ibm.biz/wkc-admin-files](ibm.biz/wkc-admin-files):
+
+```bash
+glossary-organize-categories.csv
+applicant_personal_data.csv
+```
+
 ### Local Data Asset
 
 * Click `Add to Catalog +` in the top right and choose `Local files`.
 
 ![add local files to catalog](../images/wkc-admin/wkc-add-to-catalog-local-files.png)
 
-* Click the `browse` link in the 'Select file(s) panel. Browse to the `/data/split/applicant_personal_data.csv` file to select it. Add an optional description and click the `Add` button.
+* Click the `browse` link in the 'Select file(s) panel. Browse to the `applicant_personal_data.csv` file that you Downloaded to select it. Add an optional description and click the `Add` button.
 
 ![click add for local files to catalog](../images/wkc-admin/wkc-admin-file-selected-now-add.png)
 
@@ -124,7 +133,7 @@ The fundamental abstraction in Watson Knowledge Catalog is the Category. A categ
 
 ![Import categories](../images/wkc-admin/wkc-admin-import-categories.png)
 
-* Click the `Add file` and navigate to where you cloned/downloaded the workshop repository, choosing `data/wkc/glossary-organize-categories.csv`. Click the `Next` button.
+* Click the `Add file` and navigate to where you downloaded the `glossary-organize-categories.csv` file. Click the `Next` button.
 
 ![Import select file](../images/wkc-admin/wkc-import-select-file.png)
 
